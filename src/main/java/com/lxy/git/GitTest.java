@@ -17,5 +17,6 @@ public class GitTest {
         System.out.println("git_test___444");
         System.out.println("git_test___master_test");
         System.out.println("git_test___hot_fix_test");
+        System.out.println("git_test___push_test");
     }
 }
